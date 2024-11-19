@@ -1,0 +1,30 @@
+{
+    "productType" : [
+        {
+            "id":1,
+            "name": "Product Type 1",
+            "products" : [
+                {
+                    "id":1,
+                    "name":"product 1",
+                    "price":100
+                },
+                {
+                    "id":2,
+                    "name":"product 2",
+                    "price":200
+                },
+                {
+                    "id":3,
+                    "name":"product 3",
+                    "price":300
+                }
+            ]
+        },
+        {
+            "id":2,
+            "name": "Product Type 2",
+            "products":[]
+        }
+    ]
+}
